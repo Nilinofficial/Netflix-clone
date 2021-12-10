@@ -1,9 +1,9 @@
 
-import Banner from './components/Banner'
-import Navbar from './components/Navbar'
-import Row from './components/Row'
+import Banner from '../components/Banner'
+import Navbar from '../components/Navbar'
+import Row from '../components/Row'
 import './Homescreen.css'
-import requests from './requests'
+import requests from '../requests'
 
 function Homescreen() {
     return (
